@@ -1,6 +1,6 @@
 
 
-<h1> Typescript Ecommerce Example </h1>  
+<h1> TypeScript E-commerce Example </h1>  
  
 <p align="left">  
 <img src="https://img.shields.io/badge/status-development-orange" alt="Status">  
@@ -31,7 +31,7 @@ A simple e-commerce REST API built with TypeScript to learn and practice design 
 - Simulate a checkout action
 
     - Endpoint: GET `/:cartId`
-    - Response example:
+    - Response:
         ```json
         {
             "cartId": "123ABC",
@@ -89,7 +89,7 @@ A simple e-commerce REST API built with TypeScript to learn and practice design 
             }
         } 
         ```
-    - Response example:
+    - Response:
         ```json
         {
             "items": [
