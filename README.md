@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/language-TypeScript-blue" alt="Status">  
 </p>  
   
-A simple e-commerce REST API build with TypeScript to practice design patterns.
+A simple e-commerce REST API built with TypeScript to learn and practice design patterns.
 
   
 <h3> Stack </h3>  
